@@ -1,6 +1,9 @@
-# Webpack Starter
+# Aplicación lista de tareas
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+https://rafaelromerodam.github.io/Lista-de-Tareas/
+
+Con esta apliación podrás llevar un control de tus tareas.
+
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
