@@ -1,4 +1,4 @@
-import { Todo, TodoList  } from './classes/';
+import { Todo, TodoList  } from './classes';
 import { crearTodoHtml  } from './js/componentes';
 import './styles.css';
 
